@@ -1,0 +1,318 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-specified---secondary.py
+inputModule3:
+  class: File
+  path: python/histological-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule4:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-voice---secondary.py
+inputModule5:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-condition---secondary.py
+inputModule6:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-immunodeficiency---secondary.py
+inputModule7:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-urine---secondary.py
+inputModule8:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-biolog---secondary.py
+inputModule9:
+  class: File
+  path: python/central-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule10:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-shock---secondary.py
+inputModule11:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-heartburn---secondary.py
+inputModule12:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-respiratory---secondary.py
+inputModule13:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-associated---secondary.py
+inputModule14:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-cachexia---secondary.py
+inputModule15:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-behaviour---secondary.py
+inputModule16:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-speech---secondary.py
+inputModule17:
+  class: File
+  path: python/cytological-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule18:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-glucose---secondary.py
+inputModule19:
+  class: File
+  path: python/physiological-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule20:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-ascite---secondary.py
+inputModule21:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-oliguria---secondary.py
+inputModule22:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-morbidity---secondary.py
+inputModule23:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-polyuria---secondary.py
+inputModule24:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-bloodpressure---secondary.py
+inputModule25:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-weight---secondary.py
+inputModule26:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-generalized---secondary.py
+inputModule27:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-tissue---secondary.py
+inputModule28:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-giddiness---secondary.py
+inputModule29:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-haematuria---secondary.py
+inputModule30:
+  class: File
+  path: python/upper-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule31:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-passage---secondary.py
+inputModule32:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-glycosuria---secondary.py
+inputModule33:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-headache---secondary.py
+inputModule34:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-enzyme---secondary.py
+inputModule35:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-breathing---secondary.py
+inputModule36:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-oedema---secondary.py
+inputModule37:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-jaundice---secondary.py
+inputModule38:
+  class: File
+  path: python/sudden-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule39:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-unspec---secondary.py
+inputModule40:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-liver---secondary.py
+inputModule41:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-finds---secondary.py
+inputModule42:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-sensation---secondary.py
+inputModule43:
+  class: File
+  path: python/white-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule44:
+  class: File
+  path: python/microbiological-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule45:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-senility---secondary.py
+inputModule46:
+  class: File
+  path: python/nonmedicinal-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule47:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-amnesia---secondary.py
+inputModule48:
+  class: File
+  path: python/personal-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule49:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-sounds---secondary.py
+inputModule50:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-bowel---secondary.py
+inputModule51:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-sediment---secondary.py
+inputModule52:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-mouth---secondary.py
+inputModule53:
+  class: File
+  path: python/urinary-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule54:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-dysfunction---secondary.py
+inputModule55:
+  class: File
+  path: python/cerebrospinal-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule56:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-intake---secondary.py
+inputModule57:
+  class: File
+  path: python/invalid-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule58:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-musculosk---secondary.py
+inputModule59:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-hyperhidrosis---secondary.py
+inputModule60:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-circul---secondary.py
+inputModule61:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-discharge---secondary.py
+inputModule62:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-haemorrhage---secondary.py
+inputModule63:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-classified---secondary.py
+inputModule64:
+  class: File
+  path: python/lower-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule65:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-dysphagia---secondary.py
+inputModule66:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-abdom---secondary.py
+inputModule67:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-breast---secondary.py
+inputModule68:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-hormones---secondary.py
+inputModule69:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-cough---secondary.py
+inputModule70:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-mobility---secondary.py
+inputModule71:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-collapse---secondary.py
+inputModule72:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-proteinuria---secondary.py
+inputModule73:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-taste---secondary.py
+inputModule74:
+  class: File
+  path: python/chronic-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule75:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-origin---secondary.py
+inputModule76:
+  class: File
+  path: python/faecal-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule77:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-changes---secondary.py
+inputModule78:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-throat---secondary.py
+inputModule79:
+  class: File
+  path: python/involuntary-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule80:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-mortality---secondary.py
+inputModule81:
+  class: File
+  path: python/acute-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule82:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-immunol---secondary.py
+inputModule83:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-difficulty---secondary.py
+inputModule84:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-unattended---secondary.py
+inputModule85:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-incontinence---secondary.py
+inputModule86:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-gangrene---secondary.py
+inputModule87:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-tract---secondary.py
+inputModule88:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-laboratory---secondary.py
+inputModule89:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-state---secondary.py
+inputModule90:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-stupor---secondary.py
+inputModule91:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-convulsion---secondary.py
+inputModule92:
+  class: File
+  path: python/diagnostic-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule93:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-fatigue---secondary.py
+inputModule94:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-structure---secondary.py
+inputModule95:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-retention---secondary.py
+inputModule96:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-infant---secondary.py
+inputModule97:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-reading---secondary.py
+inputModule98:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-concerning---secondary.py
+inputModule99:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-eruption---secondary.py
+inputModule100:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-elevated---secondary.py
+inputModule101:
+  class: File
+  path: python/female-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule102:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-submitted---secondary.py
+inputModule103:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-coordination---secondary.py
+inputModule104:
+  class: File
+  path: python/nervous-death-by-symptoms-signs-and-abnormal-clinical---secondary.py
+inputModule105:
+  class: File
+  path: python/death-by-symptoms-signs-and-abnormal-clinical-vomiting---secondary.py
+inputModule106:
+  class: File
+  path: python/output-cases.py
